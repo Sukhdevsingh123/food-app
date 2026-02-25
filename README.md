@@ -21,11 +21,11 @@ Building an intuitive and seamless food ordering experience requires robust stat
   </a>
   <br/><br/>
   <a href="https://food-app-beta-smoky.vercel.app/">
-    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/1f.png" alt="food-app Screenshot 2" width="800"/>
+    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/2f.png" alt="food-app Screenshot 2" width="800"/>
   </a>
   <br/><br/>
   <a href="https://food-app-beta-smoky.vercel.app/">
-    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/1f.png" alt="Allergen Label food-app Screenshot 3" width="800"/>
+    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/3f.png" alt="Allergen Label food-app Screenshot 3" width="800"/>
   </a>
 </div>
 
