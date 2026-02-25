@@ -17,15 +17,15 @@ Building an intuitive and seamless food ordering experience requires robust stat
 
 <div align="center">
   <a href="https://food-app-beta-smoky.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Sukhdevsingh123/Allergen-Label-displayer/main/client/src/assets/1.png" alt="Allergen Label Displayer Screenshot 1" width="800"/>
+    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/1f.png" alt="food-app Screenshot 1" width="800"/>
   </a>
   <br/><br/>
   <a href="https://food-app-beta-smoky.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Sukhdevsingh123/Allergen-Label-displayer/main/client/src/assets/2.png" alt="Allergen Label Displayer Screenshot 2" width="800"/>
+    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/1f.png" alt="food-app Screenshot 2" width="800"/>
   </a>
   <br/><br/>
   <a href="https://food-app-beta-smoky.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Sukhdevsingh123/Allergen-Label-displayer/main/client/src/assets/3.png" alt="Allergen Label Displayer Screenshot 3" width="800"/>
+    <img src="https://github.com/Sukhdevsingh123/food-app/blob/main/client/src/assets/1f.png" alt="Allergen Label food-app Screenshot 3" width="800"/>
   </a>
 </div>
 
@@ -132,3 +132,10 @@ npm test
 cd client
 npm test
 ```
+
+#  Live Demo
+
+ **Live Application:**  
+https://food-app-beta-smoky.vercel.app/
+
+---
