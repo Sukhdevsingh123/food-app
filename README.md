@@ -13,6 +13,24 @@ Building an intuitive and seamless food ordering experience requires robust stat
 
 ---
 
+# Project Screenshots
+
+<div align="center">
+  <a href="https://food-app-beta-smoky.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Sukhdevsingh123/Allergen-Label-displayer/main/client/src/assets/1.png" alt="Allergen Label Displayer Screenshot 1" width="800"/>
+  </a>
+  <br/><br/>
+  <a href="https://food-app-beta-smoky.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Sukhdevsingh123/Allergen-Label-displayer/main/client/src/assets/2.png" alt="Allergen Label Displayer Screenshot 2" width="800"/>
+  </a>
+  <br/><br/>
+  <a href="https://food-app-beta-smoky.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Sukhdevsingh123/Allergen-Label-displayer/main/client/src/assets/3.png" alt="Allergen Label Displayer Screenshot 3" width="800"/>
+  </a>
+</div>
+
+
+---
 ## Architecture & Tech Stack
 
 ### Frontend
